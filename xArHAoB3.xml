@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>
+                    Расписание БИГ23-01
+                </title>
+    <description>
+                    Расписание БИГ23-01
+                </description>
+    <link>https://timetable.pallada.sibsau.ru/timetable/group/13485</link>
+    <atom:link rel="alternate" type="text/html" href="https://timetable.pallada.sibsau.ru/timetable/group/13485"/>
+    <atom:link rel="self" type="application/atom+xml" href="http://localhost/rss-bridge/?action=display&amp;bridge=XPathBridge&amp;url=https%3A%2F%2Ftimetable.pallada.sibsau.ru%2Ftimetable%2Fgroup%2F13485&amp;item=%2F%2Fdiv%5B%40class%3D%27line%27%5D&amp;title=.%2F%2Fspan%5B%40class%3D%27name%27%5D%2Ftext%28%29&amp;content=normalize-space%28string%28.%2F%2Fdiv%5B%40class%3D%27col-md-12%27%5D%29%29&amp;uri=.%2F%2Fa%5B%40class%3D%22ArticleLink+ArticleLink%22%5D%2F%40href&amp;author=.%2F%2Fa%5Bcontains%28%40href%2C+%27%2Ftimetable%2Fprofessor%27%29%5D%2Ftext%28%29&amp;timestamp=ancestor%3A%3Adiv%5Bcontains%28%40class%2C+%27day%27%29%5D%2Fdiv%5B%40class%3D%27header%27%5D%2F%2Fdiv%5B%40class%3D%27name%27%5D%2Fdiv%2Ftext%28%29&amp;enclosures=&amp;categories=substring-after%28.%2F%2Fli%5Bi%5B%40class%3D%27fa+fa-bookmark%27%5D%5D%2Ftext%28%29%2C+%27%29%27%29&amp;fix_encoding=on&amp;format=Mrss"/>
+    <image>
+      <url>https://timetable.pallada.sibsau.ru/info/static/img/sibgu_logo.png</url>
+      <title>
+                    Расписание БИГ23-01
+                </title>
+      <link>https://timetable.pallada.sibsau.ru/timetable/group/13485</link>
+    </image>
+    <item>
+      <title>ВЫСШАЯ ГЕОДЕЗИЯ</title>
+      <guid isPermaLink="false">3a67d4e74ed62e2bf3d6465fbc06704e10f48b6b</guid>
+      <description>ВЫСШАЯ ГЕОДЕЗИЯ (Лекция)Юнаков Ю. Л.корп. &amp;quot;Л&amp;quot; каб. &amp;quot;903&amp;quot;</description>
+    </item>
+    <item>
+      <title>ВЫСШАЯ ГЕОДЕЗИЯ</title>
+      <guid isPermaLink="false">984f475b325e98a3c35d2916b41419b8d9728302</guid>
+      <description>ВЫСШАЯ ГЕОДЕЗИЯ (Лабораторная работа)Юнаков Ю. Л.корп. &amp;quot;Л&amp;quot; каб. &amp;quot;903&amp;quot;</description>
+    </item>
+    <item>
+      <title>АРХИТЕКТУРА ИНФОРМАЦИОННЫХ СИСТЕМ</title>
+      <guid isPermaLink="false">67626df075a0b2b39dde4faede7d86fb3a512ba5</guid>
+      <description>АРХИТЕКТУРА ИНФОРМАЦИОННЫХ СИСТЕМ (Лекция)Кишкан В. В.корп. &amp;quot;Л&amp;quot; каб. &amp;quot;903&amp;quot;</description>
+    </item>
+    <item>
+      <title>АРХИТЕКТУРА ИНФОРМАЦИОННЫХ СИСТЕМ</title>
+      <guid isPermaLink="false">7b7e83befad5780e8821d12f64f9678357ded756</guid>
+      <description>АРХИТЕКТУРА ИНФОРМАЦИОННЫХ СИСТЕМ (Лабораторная работа)Кишкан В. В.корп. &amp;quot;Л&amp;quot; каб. &amp;quot;903&amp;quot;</description>
+    </item>
+    <item>
+      <title>ПРОФЕССИОНАЛЬНО-ПРИКЛАДНАЯ ФИЗИЧЕСКАЯ КУЛЬТУРА</title>
+      <guid isPermaLink="false">cb7bde89bff942a35a8a1f25ed84324a2df2561e</guid>
+      <description>ПРОФЕССИОНАЛЬНО-ПРИКЛАДНАЯ ФИЗИЧЕСКАЯ КУЛЬТУРА (Практика)Морозова Е. Н.корп. &amp;quot;ДВС&amp;quot; каб. &amp;quot;Спортзал&amp;quot;</description>
+    </item>
+    <item>
+      <title>АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ ОБРАБОТКИ АЭРОКОСМИЧЕСКОЙ ИНФОРМАЦИИ</title>
+      <guid isPermaLink="false">7e00d0f413e52f3eadfe315ac591a9d0cd82a475</guid>
+      <description>АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ ОБРАБОТКИ АЭРОКОСМИЧЕСКОЙ ИНФОРМАЦИИ (Лекция)Юронен Ю. П.корп. &amp;quot;Л&amp;quot; каб. &amp;quot;904&amp;quot;</description>
+    </item>
+    <item>
+      <title>АРХИТЕКТУРА ИНФОРМАЦИОННЫХ СИСТЕМ</title>
+      <guid isPermaLink="false">7374835cf6642933e9000e608cff66087a847cd5</guid>
+      <description>АРХИТЕКТУРА ИНФОРМАЦИОННЫХ СИСТЕМ (Лекция)Кишкан В. В.корп. &amp;quot;Л&amp;quot; каб. &amp;quot;904&amp;quot;</description>
+    </item>
+    <item>
+      <title>ТЕОРИЯ МАТЕМАТИЧЕСКОЙ ОБРАБОТКИ ИЗМЕРЕНИЙ</title>
+      <guid isPermaLink="false">d8e51fc1ca436705fe6e5181ab849a54dad85026</guid>
+      <description>ТЕОРИЯ МАТЕМАТИЧЕСКОЙ ОБРАБОТКИ ИЗМЕРЕНИЙ (Лекция)Лапко В. А.корп. &amp;quot;Л&amp;quot; каб. &amp;quot;913&amp;quot;</description>
+    </item>
+    <item>
+      <title>ТЕОРИЯ МАТЕМАТИЧЕСКОЙ ОБРАБОТКИ ИЗМЕРЕНИЙ</title>
+      <guid isPermaLink="false">b8e958f1ef415f23d246039bcc6578157b98d190</guid>
+      <description>ТЕОРИЯ МАТЕМАТИЧЕСКОЙ ОБРАБОТКИ ИЗМЕРЕНИЙ (Лабораторная работа)Бабий И. А.корп. &amp;quot;Л&amp;quot; каб. &amp;quot;903&amp;quot;</description>
+    </item>
+    <item>
+      <title>ТЕОРИЯ МАТЕМАТИЧЕСКОЙ ОБРАБОТКИ ИЗМЕРЕНИЙ</title>
+      <guid isPermaLink="false">b8e958f1ef415f23d246039bcc6578157b98d190</guid>
+      <description>ТЕОРИЯ МАТЕМАТИЧЕСКОЙ ОБРАБОТКИ ИЗМЕРЕНИЙ (Лабораторная работа)Бабий И. А.корп. &amp;quot;Л&amp;quot; каб. &amp;quot;903&amp;quot;</description>
+    </item>
+    <item>
+      <title>АРХИТЕКТУРА ИНФОРМАЦИОННЫХ СИСТЕМ</title>
+      <guid isPermaLink="false">7b7e83befad5780e8821d12f64f9678357ded756</guid>
+      <description>АРХИТЕКТУРА ИНФОРМАЦИОННЫХ СИСТЕМ (Лабораторная работа)Кишкан В. В.корп. &amp;quot;Л&amp;quot; каб. &amp;quot;903&amp;quot;</description>
+    </item>
+    <item>
+      <title>ПРОФЕССИОНАЛЬНО-ПРИКЛАДНАЯ ФИЗИЧЕСКАЯ КУЛЬТУРА</title>
+      <guid isPermaLink="false">cb7bde89bff942a35a8a1f25ed84324a2df2561e</guid>
+      <description>ПРОФЕССИОНАЛЬНО-ПРИКЛАДНАЯ ФИЗИЧЕСКАЯ КУЛЬТУРА (Практика)Морозова Е. Н.корп. &amp;quot;ДВС&amp;quot; каб. &amp;quot;Спортзал&amp;quot;</description>
+    </item>
+    <item>
+      <title>ТЕМАТИЧЕСКОЕ ДЕШИФРИРОВАНИЕ СНИМКОВ</title>
+      <guid isPermaLink="false">327162609718cb9f7b8db458f01b562fafed0c12</guid>
+      <description>ТЕМАТИЧЕСКОЕ ДЕШИФРИРОВАНИЕ СНИМКОВ (Лабораторная работа)Юронен Ю. П.корп. &amp;quot;Л&amp;quot; каб. &amp;quot;904&amp;quot;</description>
+    </item>
+    <item>
+      <title>ТЕМАТИЧЕСКОЕ ДЕШИФРИРОВАНИЕ СНИМКОВ</title>
+      <guid isPermaLink="false">327162609718cb9f7b8db458f01b562fafed0c12</guid>
+      <description>ТЕМАТИЧЕСКОЕ ДЕШИФРИРОВАНИЕ СНИМКОВ (Лабораторная работа)Юронен Ю. П.корп. &amp;quot;Л&amp;quot; каб. &amp;quot;904&amp;quot;</description>
+    </item>
+    <item>
+      <title>МОНИТОРИНГ ОКРУЖАЮЩЕЙ СРЕДЫ</title>
+      <guid isPermaLink="false">179b526cc578084358a5df4c5cf276703c472e16</guid>
+      <description>МОНИТОРИНГ ОКРУЖАЮЩЕЙ СРЕДЫ (Лабораторная работа)Бабий И. А.корп. &amp;quot;Л&amp;quot; каб. &amp;quot;904&amp;quot;</description>
+    </item>
+    <item>
+      <title>МОНИТОРИНГ ОКРУЖАЮЩЕЙ СРЕДЫ</title>
+      <guid isPermaLink="false">d82e7ee026c03324779556ccb7f366b7c6661a63</guid>
+      <description>МОНИТОРИНГ ОКРУЖАЮЩЕЙ СРЕДЫ (Лабораторная работа)Бабий И. А.корп. &amp;quot;Л&amp;quot; каб. &amp;quot;913&amp;quot;</description>
+    </item>
+    <item>
+      <title>ГЕОИНФОРМАЦИОННЫЕ СИСТЕМЫ И ТЕХНОЛОГИИ</title>
+      <guid isPermaLink="false">d75c2681e9094e3d791718ca9ba9834016a13b4b</guid>
+      <description>ГЕОИНФОРМАЦИОННЫЕ СИСТЕМЫ И ТЕХНОЛОГИИ (Лабораторная работа)Бабий И. А.корп. &amp;quot;Л&amp;quot; каб. &amp;quot;904&amp;quot;</description>
+    </item>
+    <item>
+      <title>ГЕОИНФОРМАЦИОННЫЕ СИСТЕМЫ И ТЕХНОЛОГИИ</title>
+      <guid isPermaLink="false">d75c2681e9094e3d791718ca9ba9834016a13b4b</guid>
+      <description>ГЕОИНФОРМАЦИОННЫЕ СИСТЕМЫ И ТЕХНОЛОГИИ (Лабораторная работа)Бабий И. А.корп. &amp;quot;Л&amp;quot; каб. &amp;quot;904&amp;quot;</description>
+    </item>
+    <item>
+      <title>ГЕОИНФОРМАЦИОННЫЕ СИСТЕМЫ И ТЕХНОЛОГИИ</title>
+      <guid isPermaLink="false">e521696500f29f80974abe66f1e676613b5d38c9</guid>
+      <description>ГЕОИНФОРМАЦИОННЫЕ СИСТЕМЫ И ТЕХНОЛОГИИ (Лекция)Им С. Т.корп. &amp;quot;Л&amp;quot; каб. &amp;quot;904&amp;quot;</description>
+    </item>
+    <item>
+      <title>СПУТНИКОВЫЕ СИСТЕМЫ И ТЕХНОЛОГИИ ПОЗИЦИОНИРОВАНИЯ</title>
+      <guid isPermaLink="false">89c18d38abbfe9e1a994b990913585f6bba0dd6a</guid>
+      <description>СПУТНИКОВЫЕ СИСТЕМЫ И ТЕХНОЛОГИИ ПОЗИЦИОНИРОВАНИЯ (Лабораторная работа)Юнаков Ю. Л.корп. &amp;quot;Л&amp;quot; каб. &amp;quot;903&amp;quot;</description>
+    </item>
+    <item>
+      <title>СПУТНИКОВЫЕ СИСТЕМЫ И ТЕХНОЛОГИИ ПОЗИЦИОНИРОВАНИЯ</title>
+      <guid isPermaLink="false">89c18d38abbfe9e1a994b990913585f6bba0dd6a</guid>
+      <description>СПУТНИКОВЫЕ СИСТЕМЫ И ТЕХНОЛОГИИ ПОЗИЦИОНИРОВАНИЯ (Лабораторная работа)Юнаков Ю. Л.корп. &amp;quot;Л&amp;quot; каб. &amp;quot;903&amp;quot;</description>
+    </item>
+    <item>
+      <title>СПУТНИКОВЫЕ СИСТЕМЫ И ТЕХНОЛОГИИ ПОЗИЦИОНИРОВАНИЯ</title>
+      <guid isPermaLink="false">5e333485ff3246f468d2678b090dbcc361463756</guid>
+      <description>СПУТНИКОВЫЕ СИСТЕМЫ И ТЕХНОЛОГИИ ПОЗИЦИОНИРОВАНИЯ (Лекция)Юнаков Ю. Л.корп. &amp;quot;Л&amp;quot; каб. &amp;quot;914&amp;quot;</description>
+    </item>
+    <item>
+      <title>ПРОФЕССИОНАЛЬНО-ПРИКЛАДНАЯ ФИЗИЧЕСКАЯ КУЛЬТУРА</title>
+      <guid isPermaLink="false">cb7bde89bff942a35a8a1f25ed84324a2df2561e</guid>
+      <description>ПРОФЕССИОНАЛЬНО-ПРИКЛАДНАЯ ФИЗИЧЕСКАЯ КУЛЬТУРА (Практика)Морозова Е. Н.корп. &amp;quot;ДВС&amp;quot; каб. &amp;quot;Спортзал&amp;quot;</description>
+    </item>
+    <item>
+      <title>ТЕМАТИЧЕСКОЕ ДЕШИФРИРОВАНИЕ СНИМКОВ</title>
+      <guid isPermaLink="false">c9af053be07690af34829040c0e851cca66240af</guid>
+      <description>ТЕМАТИЧЕСКОЕ ДЕШИФРИРОВАНИЕ СНИМКОВ (Лекция)Юронен Ю. П.корп. &amp;quot;Л&amp;quot; каб. &amp;quot;904&amp;quot;</description>
+    </item>
+    <item>
+      <title>ФИЛОСОФИЯ</title>
+      <guid isPermaLink="false">e775b3ebcce6894ee682d9000e122e45404425bc</guid>
+      <description>ФИЛОСОФИЯ (Лекция)Григоренко Д. Е.корп. &amp;quot;Л&amp;quot; каб. &amp;quot;910&amp;quot;</description>
+    </item>
+    <item>
+      <title>ЭКОНОМИКА И ФИНАНСОВАЯ ГРАМОТНОСТЬ</title>
+      <guid isPermaLink="false">e5d216bdc85e5d830bf29cf81c321d766e887940</guid>
+      <description>ЭКОНОМИКА И ФИНАНСОВАЯ ГРАМОТНОСТЬ (Лекция)Галиутинова Е. И.корп. &amp;quot;Л&amp;quot; каб. &amp;quot;914&amp;quot;</description>
+    </item>
+    <item>
+      <title>ЭКОНОМИКА И ФИНАНСОВАЯ ГРАМОТНОСТЬ</title>
+      <guid isPermaLink="false">3e717aaaba1b16a548b85e3fd2a35997635ce466</guid>
+      <description>ЭКОНОМИКА И ФИНАНСОВАЯ ГРАМОТНОСТЬ (Практика)Галиутинова Е. И.корп. &amp;quot;Л&amp;quot; каб. &amp;quot;914&amp;quot;</description>
+    </item>
+    <item>
+      <title>ФИЛОСОФИЯ</title>
+      <guid isPermaLink="false">e775b3ebcce6894ee682d9000e122e45404425bc</guid>
+      <description>ФИЛОСОФИЯ (Лекция)Григоренко Д. Е.корп. &amp;quot;Л&amp;quot; каб. &amp;quot;910&amp;quot;</description>
+    </item>
+    <item>
+      <title>ФИЛОСОФИЯ</title>
+      <guid isPermaLink="false">5bbd36a6bc4fcc8b4c952975f01699b93ece4d8e</guid>
+      <description>ФИЛОСОФИЯ (Практика)Григоренко Д. Е.корп. &amp;quot;Л&amp;quot; каб. &amp;quot;910&amp;quot;</description>
+    </item>
+    <item>
+      <title>ПРОФЕССИОНАЛЬНО-ПРИКЛАДНАЯ ФИЗИЧЕСКАЯ КУЛЬТУРА</title>
+      <guid isPermaLink="false">cb7bde89bff942a35a8a1f25ed84324a2df2561e</guid>
+      <description>ПРОФЕССИОНАЛЬНО-ПРИКЛАДНАЯ ФИЗИЧЕСКАЯ КУЛЬТУРА (Практика)Морозова Е. Н.корп. &amp;quot;ДВС&amp;quot; каб. &amp;quot;Спортзал&amp;quot;</description>
+    </item>
+    <item>
+      <title>АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ ОБРАБОТКИ АЭРОКОСМИЧЕСКОЙ ИНФОРМАЦИИ</title>
+      <guid isPermaLink="false">9c61592495a36ca2aada22a0a8b287a2632d0b26</guid>
+      <description>АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ ОБРАБОТКИ АЭРОКОСМИЧЕСКОЙ ИНФОРМАЦИИ (Лабораторная работа)Бабий И. А.корп. &amp;quot;Л&amp;quot; каб. &amp;quot;904&amp;quot;</description>
+    </item>
+    <item>
+      <title>АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ ОБРАБОТКИ АЭРОКОСМИЧЕСКОЙ ИНФОРМАЦИИ</title>
+      <guid isPermaLink="false">9c61592495a36ca2aada22a0a8b287a2632d0b26</guid>
+      <description>АВТОМАТИЗИРОВАННЫЕ СИСТЕМЫ ОБРАБОТКИ АЭРОКОСМИЧЕСКОЙ ИНФОРМАЦИИ (Лабораторная работа)Бабий И. А.корп. &amp;quot;Л&amp;quot; каб. &amp;quot;904&amp;quot;</description>
+    </item>
+    <item>
+      <title>МОНИТОРИНГ ОКРУЖАЮЩЕЙ СРЕДЫ</title>
+      <guid isPermaLink="false">239fdfa0798bb489050554e1e8857453a8b04e64</guid>
+      <description>МОНИТОРИНГ ОКРУЖАЮЩЕЙ СРЕДЫ (Лекция)Платонова Ю. В.корп. &amp;quot;Л&amp;quot; каб. &amp;quot;904&amp;quot;</description>
+    </item>
+  </channel>
+</rss>
